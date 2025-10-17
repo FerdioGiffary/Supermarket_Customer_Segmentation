@@ -31,17 +31,17 @@ This project focuses on analyzing supermarket customer data to gain actionable b
 ## 4. Project Structure
 
 ```
-├── README.md                  <- Project documentation (you are here)
+├── README.md                      <- Project documentation (you are here)
 │
 ├── data
-│   ├── raw                    <- Original Kaggle dataset
+│   ├── Supermarket Customers.csv  <- Original Kaggle dataset
 │
 ├── notebooks
 │   ├── main.ipynb
 │
 └── reports
-    ├── dashboard              <- Link to looker studio for interactive dashboard
-    ├── slides                 <- Link to canva for business presentation
+    ├── dashboard.txt               <- Link to looker studio for interactive dashboard
+    ├── slides.txt                  <- Link to canva for business presentation
 
 ```
 
